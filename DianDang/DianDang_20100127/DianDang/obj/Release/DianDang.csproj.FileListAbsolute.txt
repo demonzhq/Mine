@@ -1,0 +1,360 @@
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.exe.config
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\DotNetSkin.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\myMultiColHeaderDgv.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\SkinH_CS.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\SubSonic.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\UtilityLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.AboutusForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.AddCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.CapturePicForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ClearOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ClearPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ClosePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ConnectForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.CreatePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.CustomerHistoryForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.DeletePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.EditPersonalAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.FreezePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ManageAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ManageNewsForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.OperationSearchForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.OperationsOfCurrentDayForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.PartRedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.PartRedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.QueryByClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ManageRoleForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.QueryByFinanceForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ManageSubstoreForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.QueryByTakingForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ReceiptPrintViewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RegForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RenewPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RenewPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchCarInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchGoldForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchHouseForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchHouseInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.RenewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.LoginForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.MainForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchPtForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchStockForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SetCompanyInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SetFeeForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SetPawnageClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SetPrintForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ToolBoxForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ViewOperations.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ViewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.ViewPhotoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20091230_Change\DianDang\obj\Release\DianDang.SearchOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.exe.config
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\DotNetSkin.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\myMultiColHeaderDgv.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\SkinH_CS.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\SubSonic.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\UtilityLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.AboutusForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.AddCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.CapturePicForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ClearOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ClearPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ClosePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ConnectForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.CreatePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.CustomerHistoryForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.DeletePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.EditPersonalAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.FreezePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ManageAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ManageNewsForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.OperationSearchForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.OperationsOfCurrentDayForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.PartRedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.PartRedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.QueryByClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ManageRoleForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.QueryByFinanceForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ManageSubstoreForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.QueryByTakingForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ReceiptPrintViewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RegForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RenewPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RenewPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchCarInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchGoldForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchHouseForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchHouseInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.RenewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.LoginForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.MainForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchPtForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SearchStockForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SetCompanyInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SetFeeForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SetPawnageClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.SetPrintForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ToolBoxForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ViewOperations.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ViewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.ViewPhotoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100121\DianDang\obj\Release\DianDang.TransformPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.AboutusForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.AddCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CapturePicForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClearOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClearPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClosePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ConnectForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CreatePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CustomerHistoryForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.DeletePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.EditPersonalAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.FreezePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageNewsForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.OperationSearchForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.OperationsOfCurrentDayForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PartRedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PartRedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageRoleForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByFinanceForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageSubstoreForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByTakingForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ReceiptPrintViewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RegForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchCarInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchGoldForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchHouseForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchHouseInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPawnInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.LoginForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.MainForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPtForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchStockForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetCompanyInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetFeeForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetPawnageClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetPrintForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ToolBoxForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.TransformPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.TransformPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewOperations.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewPhotoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe.config
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.XmlSerializers.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DotNetSkin.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\myMultiColHeaderDgv.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\SkinH_CS.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\SubSonic.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\UtilityLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ZedGraph.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ZedGraph.xml
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.pdb
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe.config
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.csproj.ResolveComReference.cache
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.exe
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.pdb
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.XmlSerializers.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe.manifest
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.application
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.exe
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.XmlSerializers.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DianDang.pdb
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\DotNetSkin.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\myMultiColHeaderDgv.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\SkinH_CS.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\SubSonic.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\UtilityLibrary.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ZedGraph.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ZedGraph.xml
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\de\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\es\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\fr\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\hu\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\it\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ja\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\pt\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\ru\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\sk\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\sv\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\tr\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.DataBackupRestoreForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.AboutusForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.AddCustomerForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CapturePicForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClearOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClearPawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ClosePawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ConnectForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CreatePawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.CustomerHistoryForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.DeletePawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.EditPersonalAccountForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.FreezePawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageAccountForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageNewsForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.OperationSearchForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.OperationsOfCurrentDayForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PartRedeemPawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PartRedeemPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByClassForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageRoleForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByFinanceForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ManageSubstoreForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.QueryByTakingForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ReceiptPrintViewForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RedeemPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RegForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchCarInfoForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchGoldForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchHouseForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchHouseInfoForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPawnInfoForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RedeemPawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.RenewPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchCustomerForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.LoginForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.MainForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchPtForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SearchStockForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetCompanyInfoForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetFeeForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetPawnageClassForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.SetPrintForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ToolBoxForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.TransformPawnForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.TransformPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewOperations.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.ViewPhotoForm.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.Properties.Resources.resources
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.exe.manifest
+D:\Projects\DianDang\DianDang_20100127\DianDang\obj\Release\DianDang.application

@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.exe
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.pdb
+D:\Documents\Visual Studio 2008\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.MainForm.resources
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.exe
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.pdb
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.MainForm.resources
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.Properties.Resources.resources
+D:\Projects\Mine\StockAnalyzer\StockAnalyzer\obj\Debug\StockAnalyzer.csproj.GenerateResource.Cache

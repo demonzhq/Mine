@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Release\FindData.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Release\FindData.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\FindData.Form1.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\FindData.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\FindData_DBF.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\FindData.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Release\FindData.pdb

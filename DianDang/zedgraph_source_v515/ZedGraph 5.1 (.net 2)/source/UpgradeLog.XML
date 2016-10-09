@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ZedGraph">
+</Property><Property Name="解决方案文件" Value="C:\Users\ZHQ\Desktop\zedgraph_source_v515\ZedGraph 5.1 (.net 2)\source\ZedGraph.sln">
+</Property><Property Name="Date" Value="2009年9月12日">
+</Property><Property Name="Time" Value="10:27:11">
+</Property></Properties><Event ErrorLevel="0" Project="ZedGraph" Source="ZedGraph.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ZedGraph" Source="ZedGraph.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZedGraph" Source="ZedGraph.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+D:\Projects\Mine\Authorization\Authoration License File Manager\bin\Release\Authoration License File Manager.exe.config
+D:\Projects\Mine\Authorization\Authoration License File Manager\bin\Release\Authoration License File Manager.exe
+D:\Projects\Mine\Authorization\Authoration License File Manager\bin\Release\Authoration License File Manager.pdb
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration_License_File_Manager.Main.resources
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration_License_File_Manager.Properties.Resources.resources
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration License File Manager.csproj.GenerateResource.Cache
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration License File Manager.exe
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration License File Manager.pdb
+D:\Projects\Mine\Authorization\Authoration License File Manager\obj\Release\Authoration License File Manager.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\Authorization\Authoration License File Manager\bin\Release\XForm.dll
+D:\Projects\Mine\Authorization\Authoration License File Manager\bin\Release\XForm.pdb

@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Full\bin\Debug\DianDang.exe.config
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Full\obj\Debug\DianDang_Full.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Full\obj\Debug\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Full\obj\Debug\DianDang.pdb

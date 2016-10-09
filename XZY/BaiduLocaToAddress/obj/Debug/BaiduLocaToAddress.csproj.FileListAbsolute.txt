@@ -1,0 +1,9 @@
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Debug\BaiduLocaToAddress.exe.config
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Debug\BaiduLocaToAddress.exe
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Debug\BaiduLocaToAddress.pdb
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.Form1.resources
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.Properties.Resources.resources
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.csproj.GenerateResource.Cache
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.exe
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Debug\BaiduLocaToAddress.pdb

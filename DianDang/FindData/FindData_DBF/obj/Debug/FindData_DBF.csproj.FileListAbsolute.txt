@@ -1,0 +1,16 @@
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.pdb
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Debug\FindData.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Debug\FindData.pdb
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\ResolveAssemblyReference.cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.Form1.resources
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.Properties.Resources.resources
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData_DBF.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Debug\FindData.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\bin\Debug\FindData.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.Form1.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\FindData\FindData_DBF\obj\Debug\FindData_DBF.csproj.GenerateResource.Cache

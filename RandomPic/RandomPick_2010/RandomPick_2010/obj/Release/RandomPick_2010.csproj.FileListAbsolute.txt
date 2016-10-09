@@ -1,0 +1,19 @@
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\bin\Release\RandomPick_2010.exe
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\bin\Release\RandomPick_2010.pdb
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\RandomPick_2010.Form1.resources
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\RandomPick_2010.Properties.Resources.resources
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\RandomPick_2010.csproj.GenerateResource.Cache
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\RandomPick_2010.exe
+C:\Users\ZHQ\AppData\Local\Temporary Projects\RandomPick_2010\obj\Release\RandomPick_2010.pdb
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\RandomPick_2010.exe
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\RandomPick_2010.pdb
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\bin\Release\RandomPick_2010.exe
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\bin\Release\RandomPick_2010.pdb
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\bin\Release\office.dll
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\RandomPick_2010.Form1.resources
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\RandomPick_2010.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Mine\RandomPick_2010\RandomPick_2010\obj\Release\RandomPick_2010.csproj.GenerateResource.Cache

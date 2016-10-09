@@ -1,0 +1,5 @@
+D:\Projects\Mine\Authorization\Authorization\bin\Release\Authorization.dll
+D:\Projects\Mine\Authorization\Authorization\bin\Release\Authorization.pdb
+D:\Projects\Mine\Authorization\Authorization\obj\Release\Authorization.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\Authorization\Authorization\obj\Release\Authorization.dll
+D:\Projects\Mine\Authorization\Authorization\obj\Release\Authorization.pdb

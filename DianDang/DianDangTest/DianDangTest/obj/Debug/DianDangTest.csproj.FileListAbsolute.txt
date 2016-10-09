@@ -1,0 +1,14 @@
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\obj\Debug\DianDangTest.Properties.Resources.resources
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\obj\Debug\DianDangTest.csproj.GenerateResource.Cache
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\bin\Debug\DianDangTest.exe
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\bin\Debug\DianDangTest.pdb
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\obj\Debug\DianDangTest.exe
+C:\Users\ZHQ\AppData\Local\Temporary Projects\DianDangTest\obj\Debug\DianDangTest.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\obj\Debug\DianDangTest.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\obj\Debug\DianDangTest.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\bin\Debug\DianDangTest.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\bin\Debug\DianDangTest.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\obj\Debug\DianDangTest.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDangTest\DianDangTest\obj\Debug\DianDangTest.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+1.把多表头的刷新做了一下，相关问题解决了。
+2.需要麻烦你加一下部分赎回和续转两个功能。我这边DataGridView不能修改，一修改Design.CS就被改乱了，所以要麻烦你接手烫山芋。这两个功能其实是一样的，部分赎回上半部分就是赎回的Form，下半部分就是新当的Form。下半部分新当，客户信息输入就不要了，其他保留，在赎当部分DataGridView中当品钩选后自动加入新当的DataGridView。新当时部分允许客户更改相应的描述，Amount等等。
+点击操作按钮后，执行赎当，然后执行新当。赎当和新当都要打印。新当中客户不用新建，只要用原来的CustomerID就可以了。当品要新建，算新的当品。相应的汽车和房产业要新建一下。
+ 
+续转就是所有当品的部分赎回，不让客户钩选就可以了。我新建的Form已经新建好了，TransformPawn(Operation)From.cs。其中OperationFrom.cs就是 RedeemOperation.cs。MainForm里面已经添加好了，需要在DataBase里面DDMoudule和DDPermision里面分别添加一条。
+ 
+RedeemOperationForm.cs里面我写的结构是这样子的。LoadTicketInfo()函数读取Form中的 m_TicketNumber和m_OperationDate参数，计算出DataGridView里面所有的内用，计算小李已经确认过说没有问题了。 CaculateDatagridAmount()函数，通过DataGridView里面填写的东西计算出下面的逾期费，返还费等等。 UpdateOperation()就是把DataGrid里面的数值直接写到数据库里面去。
+CaratePawnForm.cs没有怎么改过，就是更改了CaculateAmount()里面的数值计算方法。
+ 
+希望这样写了帮助你省点事。
+ 
+ 
+3.MonthClander下半部分不能显示问题。在Design.cs里面，VS自动添加了 GroupBox2.Controls.Add("this.MonthClanderSeletor1");擦掉了会帮你自动添加。我晕了。所以 MonthClander不会无法超出GroupBox2，所以下半部分看不见了。
+ 
+4.我要添加一个当品搜索察看的Form和客户搜索察看修改的Form，这个我来做好了，做好了再沟通。
+ 
+5.我觉得，查询的东西太多了，左侧的滑块是不是可以再加一个组，叫查询什么的，然后就分为，操作，查询，统计这三部分。当然，这个是后话，这个再说好来。
+ 
+7.做好了源码及时沟通。谢谢

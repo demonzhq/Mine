@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90DA679E-67B3-4C55-ADF4-82AF9B4B29A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataImport</RootNamespace>
+    <AssemblyName>DataImport</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreatDatabaseStructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabaseClass.cs" />
+    <Compile Include="DDCarInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDFeeRate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDGeneralParemeters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDHouseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDMesureUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDPawnageClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDPrintParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDSearchOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDSearchType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDStatisticClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDTicketStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PawnOperatTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\DataImport.Main.resources" />
+    <EmbeddedResource Include="obj\Debug\DataImport.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\DataImport.Main.resources" />
+    <EmbeddedResource Include="obj\Release\DataImport.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\DataImport.vshost.exe.manifest" />
+    <None Include="bin\Debug\Template\User.xls" />
+    <None Include="bin\Debug\User.xls" />
+    <None Include="obj\Debug\DataImport.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\ResolveAssemblyReference.cache" />
+    <None Include="obj\Release\DataImport.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\ResolveAssemblyReference.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="DDCertTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDCompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDCustomerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDModules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveDeleteOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\20090924.txt" />
+    <Content Include="bin\Debug\20091029.txt" />
+    <Content Include="bin\Debug\20091125.txt" />
+    <Content Include="bin\Debug\20100103.txt" />
+    <Content Include="bin\Debug\20100111.txt" />
+    <Content Include="bin\Debug\DataImport.exe" />
+    <Content Include="bin\Debug\DataImport.pdb" />
+    <Content Include="bin\Debug\DataImport.vshost.exe" />
+    <Content Include="bin\Debug\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="bin\Debug\Microsoft.Vbe.Interop.dll" />
+    <Content Include="bin\Debug\office.dll" />
+    <Content Include="bin\Release\DataImport.exe" />
+    <Content Include="bin\Release\DataImport.pdb" />
+    <Content Include="obj\Debug\DataImport.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\DataImport.exe" />
+    <Content Include="obj\Debug\DataImport.pdb" />
+    <Content Include="obj\Release\DataImport.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\DataImport.exe" />
+    <Content Include="obj\Release\DataImport.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\Refactor\" />
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Release\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,287 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Security.Cryptography;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Management;
+using System.Xml;
+using System.Threading;
+
+
+// LocalLiceseFormat:  ProjectName|CPUID|AuthoDay|CurrentDate|ExpireDate|UpdateServer|isValid
+
+namespace Authorization
+{
+    public static class Autho
+    {
+        static string iv = "ZHQLICIV";
+        static string DefaultServer = "http://autho.klaid.cn/index.php";
+
+        public static string Encrypt(string sourceString, string key, string iv)
+        {
+            try
+            {
+                byte[] btKey = Encoding.UTF8.GetBytes(key);
+
+                byte[] btIV = Encoding.UTF8.GetBytes(iv);
+
+                DESCryptoServiceProvider des = new DESCryptoServiceProvider();
+
+                using (MemoryStream ms = new MemoryStream())
+                {
+                    byte[] inData = Encoding.UTF8.GetBytes(sourceString);
+                    try
+                    {
+                        using (CryptoStream cs = new CryptoStream(ms, des.CreateEncryptor(btKey, btIV), CryptoStreamMode.Write))
+                        {
+                            cs.Write(inData, 0, inData.Length);
+
+                            cs.FlushFinalBlock();
+                        }
+
+                        return Convert.ToBase64String(ms.ToArray());
+                    }
+                    catch
+                    {
+                        return sourceString;
+                    }
+                }
+            }
+            catch { }
+
+            return "DES加密出错";
+        }
+
+        public static string Decrypt(string encryptedString, string key, string iv)
+        {
+            byte[] btKey = Encoding.UTF8.GetBytes(key);
+
+            byte[] btIV = Encoding.UTF8.GetBytes(iv);
+
+            DESCryptoServiceProvider des = new DESCryptoServiceProvider();
+
+            using (MemoryStream ms = new MemoryStream())
+            {
+                byte[] inData = Convert.FromBase64String(encryptedString);
+                try
+                {
+                    using (CryptoStream cs = new CryptoStream(ms, des.CreateDecryptor(btKey, btIV), CryptoStreamMode.Write))
+                    {
+                        cs.Write(inData, 0, inData.Length);
+
+                        cs.FlushFinalBlock();
+                    }
+
+                    return Encoding.UTF8.GetString(ms.ToArray());
+                }
+                catch
+                {
+                    return encryptedString;
+                }
+            }
+        }  
+
+
+        public static bool isLocalAuthorised(string ProjectName, string LicenseFile, string key)
+        {
+            string LicProjectName = "";
+            string LicCPUID = "";
+            int LicAuthoDay = 0;
+            string LicServer = "";
+            DateTime LicDTCurrent = new DateTime();
+            DateTime LicDTExpire = new DateTime();
+            int isValid = 0;
+            try
+            {
+                string[] Result = GetDataFromLic(LicenseFile, key, iv);
+
+                LicProjectName = Result[0];
+                LicCPUID = Result[1];
+                LicAuthoDay = Convert.ToInt32(Result[2]);
+                if (Result[3] != "")
+                    LicDTCurrent = DateTime.Parse(Result[3]);
+                if (Result[4] != "")
+                    LicDTExpire = DateTime.Parse(Result[4]);
+                LicServer = Result[5];
+                isValid = Convert.ToInt16(Result[6]);
+
+                if (isValid == 0)
+                    return false;
+                else if (LicProjectName != ProjectName)
+                    return false;
+                else if (LicCPUID != GetCPUID())
+                    return false;
+                else if (LicDTExpire < DateTime.Now)
+                    return false;
+                else if (DateTime.Now.Subtract(LicDTCurrent) >= System.TimeSpan.FromDays(LicAuthoDay))
+                    return false;
+                else return true;
+            }
+            catch
+            {
+                return false;
+            }
+
+
+        }
+
+        public static bool GenerateLic(string ProjectName, string LicenseFile, string AuthoDay, DateTime dtCurrent, DateTime dtExpire, string UpdateServer, int isValid, string Message, string key)
+        {
+
+            string CPUID="";
+            string CurrentDate = dtCurrent.ToString("yyyy-MM-dd");
+            string ExpireDate = dtExpire.ToString("yyyy-MM-dd");
+            try
+            {
+
+
+                CPUID = GetCPUID();
+                string ResultPlain = ProjectName + "|" + CPUID + "|" + AuthoDay + "|" + CurrentDate + "|" + ExpireDate + "|" + UpdateServer + "|" + isValid.ToString() + "|" + Message;
+                string ResultEncrypt = Encrypt(ResultPlain, key, iv);
+                string Plan = Decrypt(ResultEncrypt, key, iv);
+
+
+
+                if (File.Exists(LicenseFile))
+                    File.Delete(LicenseFile);
+                FileStream fsLic = new FileStream(LicenseFile, FileMode.OpenOrCreate);
+                BinaryWriter bwLic = new BinaryWriter(fsLic);
+                byte[] target = GetByteArray(ResultEncrypt);
+                bwLic.Write(target);
+                fsLic.Close();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public static byte[] GetByteArray(string shex)
+        {
+            char[] ssArray = shex.ToCharArray();
+            List<byte> bytList = new List<byte>();
+            foreach (var s in ssArray)
+            {
+                //将十六进制的字符串转换成数值
+                bytList.Add(Convert.ToByte(0xff - s));
+            }
+            //返回字节数组
+            return bytList.ToArray();
+        }
+
+        public static string GetStringFromByteArray(byte[] ByteArray)
+        {
+            string Result = "";
+            foreach (byte q in ByteArray)
+                Result += Convert.ToChar(0xFF - q);
+            return Result;
+        }
+
+        private static bool RenewLicense(string ProjectName, string LicenseFile, string key)
+        {
+            string ServerBase = "";
+            string ServerRequest = "?";
+            try
+            {
+                string[] Result = GetDataFromLic(LicenseFile, key, iv);
+                if (Result[5] != null && Result[5] != "")
+                    ServerBase = Result[5];
+                else if (Result[5] =="")
+                    ServerBase = DefaultServer;
+            }
+            catch
+            {
+                ServerBase = DefaultServer;
+            }
+
+            ServerRequest = ServerRequest + "Project=" + ProjectName;
+            ServerRequest = ServerRequest + "&" + "CPU=" + GetCPUID();
+            ServerRequest = ServerRequest + "&" + "Machine=" + System.Environment.MachineName;
+            ServerRequest = ServerRequest + "&" + "Domin=" + System.Environment.UserDomainName;
+            ServerRequest = ServerRequest + "&" + "User=" + System.Environment.UserName;
+            ServerRequest = ServerRequest + "&" + "OS=" + System.Environment.OSVersion;
+  
+            XmlDocument Root = new XmlDocument();
+            try
+            {
+                Root.Load(ServerBase + ServerRequest);
+                //Get parameter
+                int isValid = Convert.ToInt32(Root.GetElementsByTagName("isValid")[0].InnerText);
+                DateTime CurrentDate = Convert.ToDateTime(Root.GetElementsByTagName("CurrentDate")[0].InnerText);
+                DateTime ExpireDate = Convert.ToDateTime(Root.GetElementsByTagName("ExpireDate")[0].InnerText);
+                string AuthoDay = Root.GetElementsByTagName("AuthoDay")[0].InnerText;
+                string UpdateServer = Root.GetElementsByTagName("UpdateServer")[0].InnerText;
+                string Message = Root.GetElementsByTagName("Message")[0].InnerText;
+                bool GenResult = GenerateLic(ProjectName, LicenseFile, AuthoDay, CurrentDate, ExpireDate, UpdateServer, isValid, Message, key);
+                if (GenResult)
+                    return true;
+                else return false;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public static string[] GetDataFromLic(string LicenseFile, string key, string iv)
+        {
+            try
+            {
+                FileStream fsLic = new FileStream(LicenseFile, FileMode.Open);
+                BinaryReader brLic = new BinaryReader(fsLic);
+                byte[] byteLic = new byte[fsLic.Length];
+                brLic.Read(byteLic, 0, Convert.ToInt32(fsLic.Length));
+                fsLic.Close();
+                string LicResult = GetStringFromByteArray(byteLic);
+                string[] Result = Decrypt(LicResult, key, iv).Split('|');
+                return Result;
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
+        private static string GetCPUID()
+        {
+            //GetCPUID
+            string CPUID = "";
+            ManagementClass mc = new ManagementClass("Win32_BaseBoard");
+            ManagementObjectCollection moc = mc.GetInstances();
+            foreach (ManagementObject mo in moc)
+            {
+                CPUID = mo.Properties["SerialNumber"].Value.ToString();
+                CPUID = CPUID.Replace('/','-');
+                //break;
+            }
+            return CPUID;
+        }
+
+        public static bool AuthoProcess(string ProjectName, string LicenseFile, string Key)
+        {
+
+                bool RenewResult = RenewLicense(ProjectName, LicenseFile, Key);
+                if (isLocalAuthorised(ProjectName, LicenseFile, Key))
+                    return true;
+                else return false;
+
+        }
+
+        public static string GetMessage(string ProjectName, string LicenseFile, string key)
+        {
+            string Result = "void";
+            string[] Data = GetDataFromLic(LicenseFile, key, iv);
+            if (! (Data == null))
+            {
+                if (Data.Length == 8)
+                    Result = Data[7];
+            }
+            return Result;
+        }
+        
+    }
+}

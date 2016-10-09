@@ -1,0 +1,812 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B8CF7358-8C15-4B6E-925E-4D1AF14D5D53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DianDang</RootNamespace>
+    <AssemblyName>DianDang</AssemblyName>
+    <ApplicationIcon>ico1.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>1974D748B2A9B5D9ABFA18572FBA83EDFA6A16AA</ManifestCertificateThumbprint>
+    <ManifestKeyFile>DianDang_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>E:\projects\diandang\public\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotNetSkin, Version=1.20.1.15072, Culture=neutral, PublicKeyToken=9ef3d4491ebdb112, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\DotNetSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="myMultiColHeaderDgv, Version=1.0.3510.20337, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\myMultiColHeaderDgv.dll</HintPath>
+    </Reference>
+    <Reference Include="SkinH_CS, Version=1.0.7.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\SkinH_CS.dll</HintPath>
+    </Reference>
+    <Reference Include="SubSonic, Version=2.2.0.0, Culture=neutral, PublicKeyToken=eadb47849839a332, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\SubSonic.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UtilityLibrary, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\UtilityLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.3.1.35265, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\DDCarInfo.cs" />
+    <Compile Include="DAL\DDCarInfoController.cs" />
+    <Compile Include="DAL\DDCertType.cs" />
+    <Compile Include="DAL\DDCompanyInfo.cs" />
+    <Compile Include="DAL\DDCompanyInfoController.cs" />
+    <Compile Include="DAL\DDCustomerInfo.cs" />
+    <Compile Include="DAL\DDCustomerInfoController.cs" />
+    <Compile Include="DAL\DDCustomerSearchOption.cs" />
+    <Compile Include="DAL\DDFeeRate.cs" />
+    <Compile Include="DAL\DDFeeRateController.cs" />
+    <Compile Include="DAL\DDGeneralParemeter.cs" />
+    <Compile Include="DAL\DDGeneralParemeterController.cs" />
+    <Compile Include="DAL\DDHouseInfo.cs" />
+    <Compile Include="DAL\DDHouseInfoController.cs" />
+    <Compile Include="DAL\DDMesureUnit.cs" />
+    <Compile Include="DAL\DDModule.cs" />
+    <Compile Include="DAL\DDModuleController.cs" />
+    <Compile Include="DAL\DDNews.cs" />
+    <Compile Include="DAL\DDNewsClass.cs" />
+    <Compile Include="DAL\DDNewsClassController.cs" />
+    <Compile Include="DAL\DDNewsController.cs" />
+    <Compile Include="DAL\DDOperation.cs" />
+    <Compile Include="DAL\DDOperationController.cs" />
+    <Compile Include="DAL\DDPawnageClass.cs" />
+    <Compile Include="DAL\DDPawnageClassController.cs" />
+    <Compile Include="DAL\DDPawnageInfo.cs" />
+    <Compile Include="DAL\DDPawnageInfoController.cs" />
+    <Compile Include="DAL\DDPawnTicket.cs" />
+    <Compile Include="DAL\DDPawnTicketController.cs" />
+    <Compile Include="DAL\DDPermission.cs" />
+    <Compile Include="DAL\DDPermissionController.cs" />
+    <Compile Include="DAL\DDPrintParam.cs" />
+    <Compile Include="DAL\DDPrintParamController.cs" />
+    <Compile Include="DAL\DDRole.cs" />
+    <Compile Include="DAL\DDRoleController.cs" />
+    <Compile Include="DAL\DDSearchOption.cs" />
+    <Compile Include="DAL\DDSearchOptionController.cs" />
+    <Compile Include="DAL\DDSearchType.cs" />
+    <Compile Include="DAL\DDSearchTypeController.cs" />
+    <Compile Include="DAL\DDTicketStatus.cs" />
+    <Compile Include="DAL\DDTicketStatusController.cs" />
+    <Compile Include="DAL\DDUser.cs" />
+    <Compile Include="DAL\DDUserController.cs" />
+    <Compile Include="DAL\AllStructs.cs" />
+    <Compile Include="Forms\AboutusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutusForm.Designer.cs">
+      <DependentUpon>AboutusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddCustomerForm.Designer.cs">
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CapturePicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CapturePicForm.Designer.cs">
+      <DependentUpon>CapturePicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClearOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClearOperationForm.Designer.cs">
+      <DependentUpon>ClearOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClearPawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClearPawnForm.Designer.cs">
+      <DependentUpon>ClearPawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClosePawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClosePawnForm.Designer.cs">
+      <DependentUpon>ClosePawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CreatePawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CreatePawnForm.Designer.cs">
+      <DependentUpon>CreatePawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DDStatisticClass.cs" />
+    <Compile Include="DAL\DDStatisticClassController.cs" />
+    <Compile Include="Forms\CustomerHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerHistoryForm.Designer.cs">
+      <DependentUpon>CustomerHistoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DeletePawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DeletePawnForm.Designer.cs">
+      <DependentUpon>DeletePawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditPersonalAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditPersonalAccountForm.Designer.cs">
+      <DependentUpon>EditPersonalAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FreezePawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FreezePawnForm.Designer.cs">
+      <DependentUpon>FreezePawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManageAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageAccountForm.Designer.cs">
+      <DependentUpon>ManageAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManageNewsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageNewsForm.Designer.cs">
+      <DependentUpon>ManageNewsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OperationSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OperationSearchForm.Designer.cs">
+      <DependentUpon>OperationSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OperationsOfCurrentDayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OperationsOfCurrentDayForm.Designer.cs">
+      <DependentUpon>OperationsOfCurrentDayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PartRedeemPawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PartRedeemPawnForm.designer.cs">
+      <DependentUpon>PartRedeemPawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PartRedeemPawnOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PartRedeemPawnOperationForm.designer.cs">
+      <DependentUpon>PartRedeemPawnOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PawnTicketPrintPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PawnTicketPrintPreviewForm.Designer.cs">
+      <DependentUpon>PawnTicketPrintPreviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QueryByClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QueryByClassForm.Designer.cs">
+      <DependentUpon>QueryByClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManageRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageRoleForm.Designer.cs">
+      <DependentUpon>ManageRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QueryByFinanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QueryByFinanceForm.Designer.cs">
+      <DependentUpon>QueryByFinanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManageSubstoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageSubstoreForm.Designer.cs">
+      <DependentUpon>ManageSubstoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QueryByTakingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QueryByTakingForm.Designer.cs">
+      <DependentUpon>QueryByTakingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReceiptPrintViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReceiptPrintViewForm.Designer.cs">
+      <DependentUpon>ReceiptPrintViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RedeemPawnOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RedeemPawnOperationForm.Designer.cs">
+      <DependentUpon>RedeemPawnOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegForm.Designer.cs">
+      <DependentUpon>RegForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RenewPawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RenewPawnForm.Designer.cs">
+      <DependentUpon>RenewPawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RenewPawnOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RenewPawnOperationForm.Designer.cs">
+      <DependentUpon>RenewPawnOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RenewPawnPrintPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RenewPawnPrintPreviewForm.Designer.cs">
+      <DependentUpon>RenewPawnPrintPreviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchCarInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchCarInfoForm.Designer.cs">
+      <DependentUpon>SearchCarInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchPawnInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchPawnInfoForm.Designer.cs">
+      <DependentUpon>SearchPawnInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchGoldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchGoldForm.Designer.cs">
+      <DependentUpon>SearchGoldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchHouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchHouseForm.Designer.cs">
+      <DependentUpon>SearchHouseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchHouseInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchHouseInfoForm.Designer.cs">
+      <DependentUpon>SearchHouseInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchOperationForm.designer.cs">
+      <DependentUpon>SearchOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchPawnTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchPawnTicketForm.Designer.cs">
+      <DependentUpon>SearchPawnTicketForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RedeemPawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RedeemPawnForm.Designer.cs">
+      <DependentUpon>RedeemPawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchPtForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchPtForm.Designer.cs">
+      <DependentUpon>SearchPtForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchStockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchStockForm.Designer.cs">
+      <DependentUpon>SearchStockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetCompanyInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetCompanyInfoForm.Designer.cs">
+      <DependentUpon>SetCompanyInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetFeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetFeeForm.Designer.cs">
+      <DependentUpon>SetFeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetPawnageClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetPawnageClassForm.Designer.cs">
+      <DependentUpon>SetPawnageClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetPrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetPrintForm.Designer.cs">
+      <DependentUpon>SetPrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TransformPawnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TransformPawnForm.Designer.cs">
+      <DependentUpon>TransformPawnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TransformPawnOperationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TransformPawnOperationForm.designer.cs">
+      <DependentUpon>TransformPawnOperationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewOperations.Designer.cs">
+      <DependentUpon>ViewOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewPawnTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewPawnTicketForm.Designer.cs">
+      <DependentUpon>ViewPawnTicketForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewPhotoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewPhotoForm.Designer.cs">
+      <DependentUpon>ViewPhotoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\CardRecognise.cs" />
+    <Compile Include="General\CConn.cs" />
+    <Compile Include="Forms\ConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConnectForm.Designer.cs">
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RenewPawnTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RenewPawnTicketForm.Designer.cs">
+      <DependentUpon>RenewPawnTicketForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchCustomerForm.Designer.cs">
+      <DependentUpon>SearchCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ToolBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ToolBoxForm.Designer.cs">
+      <DependentUpon>ToolBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\ClsDataGridViewPage.cs" />
+    <Compile Include="General\Comm_Func.cs" />
+    <Compile Include="General\DataGridViewPrinter.cs" />
+    <Compile Include="General\DianDangFunctions.cs" />
+    <Compile Include="General\Pick.cs" />
+    <Compile Include="General\Reg.cs" />
+    <Compile Include="General\WebCam.cs" />
+    <Compile Include="Forms\PrintDataGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintDataGrid.Designer.cs">
+      <DependentUpon>PrintDataGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AboutusForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutusForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddCustomerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CapturePicForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CapturePicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClearOperationForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClearOperationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClearPawnForm.resx">
+      <DependentUpon>ClearPawnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClosePawnForm.resx">
+      <DependentUpon>ClosePawnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConnectForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CreatePawnForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CreatePawnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomerHistoryForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomerHistoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DeletePawnForm.resx">
+      <DependentUpon>DeletePawnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditPersonalAccountForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditPersonalAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FreezePawnForm.resx">
+      <DependentUpon>FreezePawnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManageAccountForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManageNewsForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageNewsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OperationSearchForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OperationSearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OperationsOfCurrentDayForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OperationsOfCurrentDayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PartRedeemPawnForm.resx">
+      <DependentUpon>PartRedeemPawnForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PartRedeemPawnOperationForm.resx">
+      <DependentUpon>PartRedeemPawnOperationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PawnTicketPrintPreviewForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PawnTicketPrintPreviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QueryByClassForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QueryByClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManageRoleForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QueryByFinanceForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QueryByFinanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManageSubstoreForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageSubstoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QueryByTakingForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QueryByTakingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReceiptPrintViewForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReceiptPrintViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RedeemPawnOperationForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RedeemPawnOperationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RegForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RegForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RenewPawnForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RenewPawnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RenewPawnOperationForm.resx">
+      <DependentUpon>RenewPawnOperationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RenewPawnPrintPreviewForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RenewPawnPrintPreviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchCarInfoForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchCarInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchPawnInfoForm.resx">
+      <DependentUpon>SearchPawnInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchGoldForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchGoldForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchHouseForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchHouseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchHouseInfoForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchHouseInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchOperationForm.resx">
+      <DependentUpon>SearchOperationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchPawnTicketForm.resx">
+      <DependentUpon>SearchPawnTicketForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RedeemPawnForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RedeemPawnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RenewPawnTicketForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RenewPawnTicketForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchCustomerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchPtForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchPtForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchStockForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchStockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetCompanyInfoForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetCompanyInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetFeeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetFeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetPawnageClassForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetPawnageClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetPrintForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetPrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ToolBoxForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ToolBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TransformPawnForm.resx">
+      <DependentUpon>TransformPawnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TransformPawnOperationForm.resx">
+      <DependentUpon>TransformPawnOperationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewOperations.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ViewOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewPawnTicketForm.resx">
+      <DependentUpon>ViewPawnTicketForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewPhotoForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ViewPhotoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="General\ToChineseValue.cs" />
+    <Compile Include="Web References\WebService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DianDang_TemporaryKey.pfx" />
+    <None Include="image\login_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico1.ico" />
+    <None Include="Web References\WebService\ChinaStockWebService.disco" />
+    <None Include="Resources\close_btn.png" />
+    <None Include="Web References\WebService\ChinaStockWebService.wsdl" />
+    <None Include="Web References\WebService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WebService\</RelPath>
+      <UpdateFromURL>http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>DianDang_cn_com_webxml_www_ChinaStockWebService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

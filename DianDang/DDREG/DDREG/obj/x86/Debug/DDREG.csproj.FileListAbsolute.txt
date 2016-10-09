@@ -1,0 +1,17 @@
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.Properties.Resources.resources
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\DianDang\DDREG\DDREG\bin\Debug\DDREG.exe
+D:\Projects\DianDang\DDREG\DDREG\bin\Debug\DDREG.pdb
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\DDReg.RegForm.resources
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.exe
+D:\Projects\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.pdb
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.exe
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.pdb
+D:\Projects\Mine\DianDang\DDREG\DDREG\bin\Debug\DDREG.exe
+D:\Projects\Mine\DianDang\DDREG\DDREG\bin\Debug\DDREG.pdb
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.Properties.Resources.resources
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDReg.RegForm.resources
+D:\Projects\Mine\DianDang\DDREG\DDREG\obj\x86\Debug\DDREG.csproj.GenerateResource.Cache

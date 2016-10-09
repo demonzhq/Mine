@@ -1,0 +1,9 @@
+D:\Projects\Mine\XZY\XZY\bin\Release\XZY.exe.config
+D:\Projects\Mine\XZY\XZY\bin\Release\XZY.exe
+D:\Projects\Mine\XZY\XZY\bin\Release\XZY.pdb
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.frmShow.resources
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.Properties.Resources.resources
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.csproj.GenerateResource.Cache
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.exe
+D:\Projects\Mine\XZY\XZY\obj\Release\XZY.pdb

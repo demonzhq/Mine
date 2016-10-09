@@ -1,0 +1,29 @@
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.pdb
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\ResolveAssemblyReference.cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Properties.Resources.resources
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.csproj.GenerateResource.Cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.pdb
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Main.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Main.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DataImport\DataImport\bin\Debug\office.dll
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.exe
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.pdb
+D:\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.exe
+D:\Projects\DianDang\DataImport\DataImport\bin\Debug\DataImport.pdb
+D:\Projects\DianDang\DataImport\DataImport\bin\Debug\office.dll
+D:\Projects\DianDang\DataImport\DataImport\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Main.resources
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\DataImport.Properties.Resources.resources
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\DianDang\DataImport\DataImport\obj\Debug\GenerateResource-ResGen.write.1.tlog

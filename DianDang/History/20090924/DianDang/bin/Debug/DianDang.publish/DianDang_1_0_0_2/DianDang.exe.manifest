@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="DianDang.exe" version="1.0.0.2" publicKeyToken="be3f52bf2ed1664e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ico1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DianDang" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DianDang.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="8.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="8.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="8.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DianDang.exe" size="1249280">
+      <assemblyIdentity name="DianDang" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AniMBf7xofLtbQoFWiZ2yXcXLgk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Office.Interop.Excel.dll" size="1276720">
+      <assemblyIdentity name="Microsoft.Office.Interop.Excel" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NEVCIGHkg/arl6UuCFNlxV9F4W0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="myMultiColHeaderDgv.dll" size="20480">
+      <assemblyIdentity name="myMultiColHeaderDgv" version="1.0.3510.20337" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kNBxxWVEIVHnNKqOqkhzHHnzfmA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SubSonic.dll" size="868352">
+      <assemblyIdentity name="SubSonic" version="2.2.0.0" publicKeyToken="EADB47849839A332" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>oCPlyP3W1xDa5d0SE63R07xoX/s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UtilityLibrary.dll" size="278528">
+      <assemblyIdentity name="UtilityLibrary" version="1.0.3.0" publicKeyToken="C13D07FEFEF8D2C7" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BEywqsRBCm1TLeB3lRSgSlDny5k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WeifenLuo.WinFormsUI.Docking.dll" size="417792">
+      <assemblyIdentity name="WeifenLuo.WinFormsUI.Docking" version="2.2.2864.18696" publicKeyToken="D481317C817CEC47" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ftqBlcE5f7M/japFoa6l0NBVwgA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="307200">
+      <assemblyIdentity name="ZedGraph" version="5.1.5.28844" publicKeyToken="02A83CBD123FCD60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BMwQ/MmSgKzmPpgjmSJ/V+P2YN8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DianDang.exe.config" size="878">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p6CQN5ANdfEMpSYcmVSfatUdEBE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ico1.ico" size="20222">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+YqR5/sYN5ZfOHE6CJWD9e1Ma4Q=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GU\gyx" issuerKeyHash="749177382eb22aa62d1cce29ff25256cf3fa0d08" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>NVUipoN4AFtjT4kikTya9OS6w6c=</DigestValue></Reference></SignedInfo><SignatureValue>ujbWocRcTtoqL/kGMG52l0Im1uLYjGWOdnq/zHiJJElXvwCbRUNmE841nh6tvDuiPVOSG2OzBSd4S8bheiPcucgmdTikwukT2JNFzyssp2wEOsF9xBq0HKqs6o93ch5MS3E8kbj2OszvcDAAsNbHYSM+qfg7XJMK7XER9PaUvBc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0sDf1xPBMejYYZKimw9kxKWeqSbsWWQR0EJmvaqHY+P0A7DEXXrJW4MATtuQHaaB5/NEcFezvVmFnPoUPQe1vpvzV6kunl4/60SOkCRmiewwgARdSJc30oVyPpdA7/iPdf4tEtdg+ETbdnyC372XI0pZd4lTA/XlurRH/zclk5k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a7c3bae4f49a3c9122894f635b007883a6225535" Description="" Url=""><as:assemblyIdentity name="DianDang.exe" version="1.0.0.2" publicKeyToken="be3f52bf2ed1664e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GU\gyx</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>mk2ZxZwQHYbzAnZG6xJgHkTwpEg=</DigestValue></Reference></SignedInfo><SignatureValue>eFZsdcewaFkMxw0Gon7m6riBsmSjwUmuAE8L0+iaxsqx9/qc0P6xvcrmN/VFssjdfnjG4FaQO2ApEnUpHUSF15Mlu/xRFPdq2VP7VUnfbs5yHCSdMdDG6iLqZfnkC+w0omqu3tb/gzMkHrS9luxP6jgb1TVzyRxcLsywkd1kSVw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0sDf1xPBMejYYZKimw9kxKWeqSbsWWQR0EJmvaqHY+P0A7DEXXrJW4MATtuQHaaB5/NEcFezvVmFnPoUPQe1vpvzV6kunl4/60SOkCRmiewwgARdSJc30oVyPpdA7/iPdf4tEtdg+ETbdnyC372XI0pZd4lTA/XlurRH/zclk5k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBqTCCARagAwIBAgIQF50Gy2hA74RDq44Vl+S80jAJBgUrDgMCHQUAMBcxFTATBgNVBAMeDABHAFUAXABnAHkAeDAeFw0wOTA4MTkwNzE0MDVaFw0xMDA4MTkxMzE0MDVaMBcxFTATBgNVBAMeDABHAFUAXABnAHkAeDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0sDf1xPBMejYYZKimw9kxKWeqSbsWWQR0EJmvaqHY+P0A7DEXXrJW4MATtuQHaaB5/NEcFezvVmFnPoUPQe1vpvzV6kunl4/60SOkCRmiewwgARdSJc30oVyPpdA7/iPdf4tEtdg+ETbdnyC372XI0pZd4lTA/XlurRH/zclk5kCAwEAATAJBgUrDgMCHQUAA4GBABEJXMUV3feW8CQn3DucYiCGQy1PalO3Jj3sQe0EqFD4K0iFnE1MMbq8Qljnd+6nqVnsKaKp9JTHh7h9AdhQYaKQweO3TetuBdfDpUQEu9qPp0+5n83IHJ5tzffeOoRxpOmBQPXbhUlr7Hzsb/wUcAD2MG2N8VsVAwOOcfQ9daCD</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

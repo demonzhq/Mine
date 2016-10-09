@@ -1,0 +1,74 @@
+
+Processing D:\Projects\DianDang\DianDang_鼎隆典当\Install\典当中国_Full.ci 2010/9/26 9:14:12
+Log file: D:\Projects\DianDang\DianDang_鼎隆典当\Install\典当中国_Full.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\ZHQ\Desktop\Install\setup.exe 
+Adding temporary file(s) to EXE 
+C:\Users\ZHQ\AppData\Local\Temp\gentee00\chinese_simplified.lng 2010/9/26 9:14:13 2602  56.84%
+C:\Program Files\CreateInstall Free\res\logo\default - 1.bmp 2002/11/5 16:52:24 7308  52.50%
+C:\Program Files\CreateInstall Free\res\leftimg\install\install - 1.bmp 2002/11/10 16:56:02 20678  33.42%
+C:\Program Files\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 2002/11/10 16:56:02 20678  28.17%
+Build setup file: C:\Users\ZHQ\AppData\Local\Temp\gentee00\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\Users\ZHQ\Desktop\DianDang\de\ZedGraph.resources.dll 2008/12/12 16:01:34 4608  46.02%
+C:\Users\ZHQ\Desktop\DianDang\es\ZedGraph.resources.dll 2008/12/12 16:01:36 4608  12.45%
+C:\Users\ZHQ\Desktop\DianDang\fr\ZedGraph.resources.dll 2008/12/12 16:01:36 4608  12.89%
+C:\Users\ZHQ\Desktop\DianDang\hu\ZedGraph.resources.dll 2008/12/12 16:01:36 4608  14.93%
+C:\Users\ZHQ\Desktop\DianDang\it\ZedGraph.resources.dll 2008/12/12 16:01:36 4608  12.28%
+C:\Users\ZHQ\Desktop\DianDang\ja\ZedGraph.resources.dll 2008/12/12 16:01:36 4608  14.82%
+C:\Users\ZHQ\Desktop\DianDang\Pram\DataTemplate.dd 2010/7/13 20:22:26 59392  14.49%
+C:\Users\ZHQ\Desktop\DianDang\Pram\dump.dd 2010/9/26 8:49:13 46592  12.04%
+C:\Users\ZHQ\Desktop\DianDang\Pram\FinanceTemplate.dd 2010/7/13 20:22:20 26624  7.72%
+C:\Users\ZHQ\Desktop\DianDang\Pram\OperationOfDay.dd 2010/3/12 13:23:10 26112  4.80%
+C:\Users\ZHQ\Desktop\DianDang\Pram\PawnTemplate.dd 2010/6/29 10:20:42 39424  3.61%
+C:\Users\ZHQ\Desktop\DianDang\Pram\QueryByClass.dd 2010/4/20 14:26:09 30208  6.47%
+C:\Users\ZHQ\Desktop\DianDang\Pram\QueryByClass1.dd 2010/7/13 20:21:52 28672  4.40%
+C:\Users\ZHQ\Desktop\DianDang\Pram\QueryByClass2.dd 2010/7/13 20:21:46 27648  2.23%
+C:\Users\ZHQ\Desktop\DianDang\Pram\QueryByTaking1.dd 2010/7/13 20:21:34 26112  1.87%
+C:\Users\ZHQ\Desktop\DianDang\Pram\QueryByTaking2.dd 2010/7/13 20:21:28 26112  2.37%
+C:\Users\ZHQ\Desktop\DianDang\Pram\ReceiptTemplate.dd 2010/4/9 13:58:40 26112  5.36%
+C:\Users\ZHQ\Desktop\DianDang\Pram\RenewTemplate.dd 2010/6/21 15:27:29 26112  3.53%
+C:\Users\ZHQ\Desktop\DianDang\Pram\SearchPawnage.dd 2010/7/13 21:13:18 60416  1.69%
+C:\Users\ZHQ\Desktop\DianDang\Pram\SearchTicket.dd 2010/7/13 20:21:05 59392  0.83%
+C:\Users\ZHQ\Desktop\DianDang\pt\ZedGraph.resources.dll 2008/12/12 16:01:38 4608  11.19%
+C:\Users\ZHQ\Desktop\DianDang\ru\ZedGraph.resources.dll 2008/12/12 16:01:38 4608  14.69%
+C:\Users\ZHQ\Desktop\DianDang\sk\ZedGraph.resources.dll 2008/12/12 16:01:38 4608  12.89%
+C:\Users\ZHQ\Desktop\DianDang\sv\ZedGraph.resources.dll 2008/12/12 16:01:38 4096  14.50%
+C:\Users\ZHQ\Desktop\DianDang\tr\ZedGraph.resources.dll 2008/12/12 16:01:38 4608  12.36%
+C:\Users\ZHQ\Desktop\DianDang\zh-cn\ZedGraph.resources.dll 2008/12/12 16:01:40 4096  13.74%
+C:\Users\ZHQ\Desktop\DianDang\zh-tw\ZedGraph.resources.dll 2008/12/12 16:01:40 4608  11.17%
+C:\Users\ZHQ\Desktop\DianDang\avicap32.dll 2004/8/17 20:00:00 64000  54.70%
+C:\Users\ZHQ\Desktop\DianDang\cardapi2.dll 2009/8/6 14:47:20 65536  42.49%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.application 2010/9/26 8:26:42 1624  41.87%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.exe 2010/9/26 8:26:38 1841152  18.53%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.exe.config 2010/2/10 12:35:13 1871  39.07%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.exe.manifest 2010/9/26 8:26:41 19212  13.89%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.pdb 2010/9/26 8:26:37 1615360  23.12%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.vshost.application 2010/9/26 8:26:42 1624  42.36%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.vshost.exe 2010/9/26 8:50:02 11608  54.99%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.vshost.exe.config 2010/2/10 12:35:13 1871  35.06%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.vshost.exe.manifest 2010/9/26 8:26:41 19212  11.86%
+C:\Users\ZHQ\Desktop\DianDang\DianDang.XmlSerializers.dll 2009/12/30 20:21:45 32768  14.83%
+C:\Users\ZHQ\Desktop\DianDang\DotNetSkin.dll 2008/4/28 15:34:56 372736  44.09%
+C:\Users\ZHQ\Desktop\DianDang\Microsoft.Office.Interop.Excel.dll 2010/7/5 23:33:21 1550200  22.71%
+C:\Users\ZHQ\Desktop\DianDang\myMultiColHeaderDgv.dll 2009/8/11 11:17:55 20480  17.67%
+C:\Users\ZHQ\Desktop\DianDang\sdtapi.dll 2009/4/2 10:03:46 2560  15.93%
+C:\Users\ZHQ\Desktop\DianDang\skinh.she 2009/12/23 22:46:37 33459  100.01%
+C:\Users\ZHQ\Desktop\DianDang\skinh1.she 2009/12/8 16:14:49 31833  100.01%
+C:\Users\ZHQ\Desktop\DianDang\skinh2.she 2009/12/8 21:40:03 32009  100.01%
+C:\Users\ZHQ\Desktop\DianDang\SkinH_CS.dll 2009/9/9 20:54:20 36864  26.44%
+C:\Users\ZHQ\Desktop\DianDang\SkinH_Net.dll 2009/9/15 10:47:18 90112  96.68%
+C:\Users\ZHQ\Desktop\DianDang\SubSonic.dll 2009/4/10 22:43:52 868352  28.26%
+C:\Users\ZHQ\Desktop\DianDang\UtilityLibrary.dll 2009/12/17 20:08:57 274432  41.39%
+C:\Users\ZHQ\Desktop\DianDang\WeifenLuo.WinFormsUI.Docking.dll 2009/12/17 19:35:32 430080  20.95%
+C:\Users\ZHQ\Desktop\DianDang\WltRS.dll 2007/5/15 10:22:12 98304  50.72%
+C:\Users\ZHQ\Desktop\DianDang\ZedGraph.dll 2008/12/12 16:01:34 307200  39.68%
+C:\Users\ZHQ\Desktop\DianDang\ZedGraph.xml 2008/12/12 16:01:34 1492968  11.04%
+================================ 
+All files: 54 [ 9653KB => 2279KB ] 
+File Size C:\Users\ZHQ\Desktop\Install\setup.exe: 2386 KB 
+Finish Successful 2010/9/26 9:14:23

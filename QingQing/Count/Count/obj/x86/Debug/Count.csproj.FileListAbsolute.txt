@@ -1,0 +1,9 @@
+D:\Projects\QingQing\Count\Count\bin\Debug\Count.exe
+D:\Projects\QingQing\Count\Count\bin\Debug\Count.pdb
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\Count.Properties.Resources.resources
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\Count.exe
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\Count.pdb
+D:\Projects\QingQing\Count\Count\obj\x86\Debug\Count.Count.resources

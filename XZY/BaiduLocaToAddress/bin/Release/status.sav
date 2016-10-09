@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Components>
+  <Component>
+    <Name>tbxKey</Name>
+    <Value>29ce729a15887191a6213c117c0cecf0</Value>
+    <Type>RichTextBox</Type>
+  </Component>
+  <Component>
+    <Name>textBox2</Name>
+    <Value>江西省南昌市青山湖区创新路1号
+江西省南昌市青山湖区创新路1号
+江西省南昌市青山湖区创新路1号
+</Value>
+    <Type>RichTextBox</Type>
+  </Component>
+  <Component>
+    <Name>textBox1</Name>
+    <Value>28.696667823141,115.95787643214
+28.696667823141,115.95787643214
+28.696667823141,115.95787643214
+</Value>
+    <Type>RichTextBox</Type>
+  </Component>
+  <Component>
+    <Name>nudAddressCol</Name>
+    <Value>2</Value>
+    <Type>NumericUpDown</Type>
+  </Component>
+  <Component>
+    <Name>nudLocalCol</Name>
+    <Value>8</Value>
+    <Type>NumericUpDown</Type>
+  </Component>
+  <Component>
+    <Name>nudDataStartRow</Name>
+    <Value>2</Value>
+    <Type>NumericUpDown</Type>
+  </Component>
+  <Component>
+    <Name>tbxExcelFile</Name>
+    <Value>C:\Users\ZHQ\Desktop\建行地址测试 - 副本.xlsx</Value>
+    <Type>TextBox</Type>
+  </Component>
+</Components>

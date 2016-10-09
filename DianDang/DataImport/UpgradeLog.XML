@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataImport">
+</Property><Property Name="解决方案文件" Value="D:\Projects\DianDang\DataImport\DataImport.sln">
+</Property><Property Name="用户选项文件" Value="D:\Projects\DianDang\DataImport\DataImport.suo">
+</Property><Property Name="Date" Value="2010年7月5日">
+</Property><Property Name="Time" Value="13:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataImport.sln" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DataImport.suo" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport.suo">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DataImport.csproj" Description="项目文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DataImport.csproj">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DataImport.csproj.user" Description="项目用户文件成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DataImport.csproj.user">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\CreatDatabaseStructure.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\CreatDatabaseStructure.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DatabaseClass.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DatabaseClass.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDCarInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDCarInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDFeeRate.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDFeeRate.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDGeneralParemeters.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDGeneralParemeters.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDHouseInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDHouseInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDMesureUnit.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDMesureUnit.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDPawnageClass.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDPawnageClass.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDPermissions.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDPermissions.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDPrintParam.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDPrintParam.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDRoles.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDRoles.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDSearchOption.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDSearchOption.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDSearchType.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDSearchType.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDStatisticClass.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDStatisticClass.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDTicketStatus.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDTicketStatus.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDUsers.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDUsers.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Functions.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Functions.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Main.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Main.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Main.Designer.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\PawnOperatTicket.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\PawnOperatTicket.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Program.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Program.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDCertTypes.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDCertTypes.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDCompanyInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDCompanyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDCustomerInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDCustomerInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DDModules.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\DDModules.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\RemoveDeleteOperation.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\RemoveDeleteOperation.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\SaveUserInfo.cs" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\SaveUserInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\DataImport.vshost.exe.manifest" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\DataImport.vshost.exe.manifest">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\Template\User.xls" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\Template\User.xls">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\User.xls" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\User.xls">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.csproj.GenerateResource.Cache" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.csproj.GenerateResource.Cache">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\ResolveAssemblyReference.cache" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.csproj.GenerateResource.Cache" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.csproj.GenerateResource.Cache">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\ResolveAssemblyReference.cache" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Properties\Settings.settings" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\20090924.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\20090924.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\20091029.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\20091029.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\20091125.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\20091125.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\20100103.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\20100103.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\20100111.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\20100111.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\DataImport.exe" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\DataImport.exe">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\DataImport.pdb" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\DataImport.pdb">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\DataImport.vshost.exe" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\DataImport.vshost.exe">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\Microsoft.Office.Interop.Excel.dll" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\Microsoft.Office.Interop.Excel.dll">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\Microsoft.Vbe.Interop.dll" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\Microsoft.Vbe.Interop.dll">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Debug\office.dll" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Debug\office.dll">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Release\DataImport.exe" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Release\DataImport.exe">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\bin\Release\DataImport.pdb" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\bin\Release\DataImport.pdb">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.csproj.FileListAbsolute.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.exe" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.exe">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.pdb" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.pdb">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.csproj.FileListAbsolute.txt" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.exe" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.exe">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.pdb" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.pdb">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Main.resx" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Main.resx">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.Main.resources" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.Main.resources">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Debug\DataImport.Properties.Resources.resources" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Debug\DataImport.Properties.Resources.resources">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.Main.resources" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.Main.resources">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\obj\Release\DataImport.Properties.Resources.resources" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\obj\Release\DataImport.Properties.Resources.resources">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\Properties\Resources.resx" Description="文件已成功备份为 D:\Projects\DianDang\DataImport\Backup\DataImport\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DataImport" Source="DataImport\DataImport.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DataImport.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataImport" Source="DataImport\DataImport.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataImport.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DataImport.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataImport" Source="DataImport\DataImport.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QingTV">
+</Property><Property Name="解决方案文件" Value="D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV.sln">
+</Property><Property Name="Date" Value="2008年11月22日">
+</Property><Property Name="Time" Value="12:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QingTV.sln" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV.sln">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.csproj" Description="项目文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\QingTV.csproj">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.csproj.user" Description="项目用户文件成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\QingTV.csproj.user">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Program.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Program.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\QingTV.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.Designer.cs" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\QingTV.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Properties\Settings.settings" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\tvp.ico" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\tvp.ico">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\Properties\Resources.resx" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.resx" Description="文件已成功备份为 D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\Backup\QingTV\QingTV.resx">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="QingTV" Source="QingTV\QingTV.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QingTV.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="QingTV.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QingTV" Source="QingTV\QingTV.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

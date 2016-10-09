@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Components>
+  <Component>
+    <Name>tbx_IV</Name>
+    <Value>ZHQLICIV</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>tbx_key</Name>
+    <Value>TestTest</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>tbxMessage</Name>
+    <Value>void</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>dtp_ExpireDate</Name>
+    <Value>2016/7/1 0:00:00</Value>
+    <Type>DateTimePicker</Type>
+  </Component>
+  <Component>
+    <Name>dtp_CurrentDate</Name>
+    <Value>2016/7/1 0:00:00</Value>
+    <Type>DateTimePicker</Type>
+  </Component>
+  <Component>
+    <Name>cbx_Valid</Name>
+    <Value>1</Value>
+    <Type>ComboBox</Type>
+  </Component>
+  <Component>
+    <Name>num_AuthoDay</Name>
+    <Value>30</Value>
+    <Type>NumericUpDown</Type>
+  </Component>
+  <Component>
+    <Name>tbx_AuthoServer</Name>
+    <Value>http://autho.klaid.cn/index.php</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>tbx_ID</Name>
+    <Value>-78PX662-CN129635BJ0089-</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>tbx_ProjectName</Name>
+    <Value>Test</Value>
+    <Type>TextBox</Type>
+  </Component>
+  <Component>
+    <Name>tbx_File</Name>
+    <Value>D:\Projects\Mine\Authorization\Test\bin\Debug\Autho.lic</Value>
+    <Type>TextBox</Type>
+  </Component>
+</Components>

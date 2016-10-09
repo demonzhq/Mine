@@ -1,0 +1,9 @@
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\UnitTest.dll
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\UnitTest.pdb
+D:\Projects\Mine\Authorization\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\Authorization\UnitTest\obj\Debug\UnitTest.dll
+D:\Projects\Mine\Authorization\UnitTest\obj\Debug\UnitTest.pdb
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\Authorization.dll
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\Authorization.pdb
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Mine\Authorization\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll

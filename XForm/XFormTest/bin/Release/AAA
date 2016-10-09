@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Components>
+  <Component>
+    <Name>checkBox2</Name>
+    <Value>True</Value>
+    <Type>CheckBox</Type>
+  </Component>
+  <Component>
+    <Name>checkBox1</Name>
+    <Value>False</Value>
+    <Type>CheckBox</Type>
+  </Component>
+  <Component>
+    <Name>textBox1</Name>
+    <Value>发士大夫</Value>
+    <Type>TextBox</Type>
+  </Component>
+</Components>

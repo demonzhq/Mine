@@ -1,0 +1,11 @@
+D:\Projects\Mine\XForm\XFormTest\bin\Release\XFormTest.exe.config
+D:\Projects\Mine\XForm\XFormTest\bin\Release\XFormTest.exe
+D:\Projects\Mine\XForm\XFormTest\bin\Release\XFormTest.pdb
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.Properties.Resources.resources
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.csproj.GenerateResource.Cache
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.exe
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.pdb
+D:\Projects\Mine\XForm\XFormTest\bin\Release\XForm.dll
+D:\Projects\Mine\XForm\XFormTest\bin\Release\XForm.pdb
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\XForm\XFormTest\obj\Release\XFormTest.Form1.resources

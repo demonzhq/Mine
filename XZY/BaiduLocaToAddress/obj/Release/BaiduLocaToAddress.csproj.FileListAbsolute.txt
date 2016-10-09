@@ -1,0 +1,14 @@
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\BaiduLocaToAddress.exe.config
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\BaiduLocaToAddress.exe
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\BaiduLocaToAddress.pdb
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.Form1.resources
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.Properties.Resources.resources
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.csproj.GenerateResource.Cache
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.exe
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.pdb
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\Authorization.dll
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\Authorization.pdb
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\XForm.dll
+D:\Projects\Mine\XZY\BaiduLocaToAddress\bin\Release\XForm.pdb
+D:\Projects\Mine\XZY\BaiduLocaToAddress\obj\Release\BaiduLocaToAddress.csproj.ResolveComReference.cache

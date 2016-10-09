@@ -1,0 +1,13 @@
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\Interop.WMPLib.dll
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\AxInterop.WMPLib.dll
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\QingTV.csproj.ResolveComReference.cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\bin\Debug\青青TV.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\bin\Debug\青青TV.pdb
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\bin\Debug\Interop.WMPLib.dll
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\bin\Debug\AxInterop.WMPLib.dll
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\ResolveAssemblyReference.cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\QingTV.Properties.Resources.resources
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\QingTV.QingTV.resources
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\QingTV.csproj.GenerateResource.Cache
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\青青TV.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\QingTV\QingTV\obj\Debug\青青TV.pdb

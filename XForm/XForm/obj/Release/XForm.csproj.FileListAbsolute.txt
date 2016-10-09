@@ -1,0 +1,5 @@
+D:\Projects\Mine\XForm\XForm\bin\Release\XForm.dll
+D:\Projects\Mine\XForm\XForm\bin\Release\XForm.pdb
+D:\Projects\Mine\XForm\XForm\obj\Release\XForm.dll
+D:\Projects\Mine\XForm\XForm\obj\Release\XForm.pdb
+D:\Projects\Mine\XForm\XForm\obj\Release\XForm.csprojResolveAssemblyReference.cache

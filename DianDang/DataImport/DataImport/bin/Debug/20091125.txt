@@ -1,0 +1,386 @@
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDUsers](
+	[UserID] [int] IDENTITY(1,1) NOT NULL,
+	[AccountName] [varchar](50) NULL,
+	[UserPassword] [varchar](50) NULL,
+	[UserName] [varchar](50) NULL,
+	[RoleID] [int] NULL,
+	[Email] [varchar](50) NULL,
+	[PhoneNumber] [varchar](50) NULL,
+	[CertNumber] [varchar](50) NULL,
+ CONSTRAINT [PK_AccountInfo] PRIMARY KEY CLUSTERED 
+(
+	[UserID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDTicketStatus](
+	[StatusID] [int] IDENTITY(1,1) NOT NULL,
+	[Description] [varchar](50) NULL,
+	[Visible] [int] NULL,
+	[IsOperation] [int] NULL,
+ CONSTRAINT [PK_TicketStatus] PRIMARY KEY CLUSTERED 
+(
+	[StatusID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDStatisticClass](
+	[ClassID] [int] IDENTITY(1,1) NOT NULL,
+	[ClassName] [varchar](50) NULL,
+ CONSTRAINT [PK_DDStatisticClass] PRIMARY KEY CLUSTERED 
+(
+	[ClassID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDSearchType](
+	[TypeID] [int] IDENTITY(1,1) NOT NULL,
+	[TypeName] [varchar](50) NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_DDSearchType] PRIMARY KEY CLUSTERED 
+(
+	[TypeID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDSearchOption](
+	[OptionID] [int] IDENTITY(1,1) NOT NULL,
+	[OptionName] [varchar](50) NULL,
+	[FieldName] [varchar](50) NULL,
+	[SearchTypeID] [int] NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_DDCustomerSearchOption] PRIMARY KEY CLUSTERED 
+(
+	[OptionID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDRoles](
+	[RoleID] [int] IDENTITY(1,1) NOT NULL,
+	[RoleName] [char](10) NULL,
+ CONSTRAINT [PK_Roles] PRIMARY KEY CLUSTERED 
+(
+	[RoleID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDPrintParam](
+	[PrintOption] [int] IDENTITY(1,1) NOT NULL,
+	[OptionName] [varchar](50) NULL,
+	[OptionValue] [int] NULL,
+ CONSTRAINT [PK_DDPrintParam] PRIMARY KEY CLUSTERED 
+(
+	[PrintOption] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDPermissions](
+	[RoleID] [int] NOT NULL,
+	[ModuleID] [int] NOT NULL,
+	[Flag] [int] NULL,
+ CONSTRAINT [PK_Permissions] PRIMARY KEY CLUSTERED 
+(
+	[RoleID] ASC,
+	[ModuleID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDPawnTicket](
+	[TicketID] [int] IDENTITY(1,1) NOT NULL,
+	[CustomerID] [int] NULL,
+	[TicketNumber] [varchar](50) NULL,
+	[StartDate] [varchar](50) NULL,
+	[EndDate] [varchar](50) NULL,
+	[StatusID] [int] NULL,
+ CONSTRAINT [PK_PawnTicket] PRIMARY KEY CLUSTERED 
+(
+	[TicketID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDPawnageInfo](
+	[PawnageID] [int] IDENTITY(1,1) NOT NULL,
+	[ClassID] [int] NULL,
+	[ParentID] [int] NULL,
+	[StatusID] [int] NULL,
+	[CountNumber] [varchar](50) NULL,
+	[Weight] [varchar](50) NULL,
+	[Price] [varchar](50) NULL,
+	[FeeRate] [varchar](50) NULL,
+	[InterestRate] [varchar](50) NULL,
+	[DiscountPercent] [varchar](50) NULL,
+	[Description] [varchar](50) NULL,
+	[Remark] [varchar](50) NULL,
+	[StartDate] [varchar](50) NULL,
+	[EndDate] [varchar](50) NULL,
+	[PhotoPath] [varchar](max) NULL,
+ CONSTRAINT [PK_PawnageInfo] PRIMARY KEY CLUSTERED 
+(
+	[PawnageID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDPawnageClass](
+	[ClassID] [int] IDENTITY(1,1) NOT NULL,
+	[ClassName] [varchar](50) NULL,
+	[ParentID] [int] NULL,
+	[UnitID] [int] NULL,
+	[MonthFeeRate] [varchar](50) NULL,
+	[MaxFeeRate] [varchar](50) NULL,
+	[MinFeeRate] [varchar](50) NULL,
+	[InterestRate] [varchar](50) NULL,
+	[Description] [varchar](50) NULL,
+	[IsRoot] [int] NULL,
+	[StatisticClassID] [int] NULL,
+ CONSTRAINT [PK_PawnageClass] PRIMARY KEY CLUSTERED 
+(
+	[ClassID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDOperation](
+	[OperationID] [int] IDENTITY(1,1) NOT NULL,
+	[TicketID] [int] NULL,
+	[PawnageID] [int] NULL,
+	[OperationType] [int] NULL,
+	[OperationNumber] [varchar](50) NULL,
+	[ServiceFee] [varchar](50) NULL,
+	[InterestFee] [varchar](50) NULL,
+	[ReturnFee] [varchar](50) NULL,
+	[OverdueFee] [varchar](50) NULL,
+	[Amount] [varchar](50) NULL,
+	[ReckonAmount] [varchar](50) NULL,
+	[OperationDate] [varchar](50) NULL,
+	[StartDate] [varchar](50) NULL,
+	[EndDate] [varchar](50) NULL,
+	[OperaterName] [varchar](50) NULL,
+	[PreOperationID] [int] NULL,
+	[NextOperationID] [int] NULL,
+	[Deleted] [int] NULL,
+ CONSTRAINT [PK_DDOperation] PRIMARY KEY CLUSTERED 
+(
+	[OperationID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDNews](
+	[NewsID] [int] IDENTITY(1,1) NOT NULL,
+	[ClassID] [int] NULL,
+	[Title] [varchar](50) NULL,
+	[Content] [text] NULL,
+	[PublishDate] [datetime] NULL,
+	[OperaterName] [varchar](50) NULL,
+	[Source] [varchar](50) NULL,
+ CONSTRAINT [PK_News] PRIMARY KEY CLUSTERED 
+(
+	[NewsID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDModules](
+	[ModuleID] [int] IDENTITY(1,1) NOT NULL,
+	[ModuleName] [varchar](50) NULL,
+	[ParentID] [int] NULL,
+ CONSTRAINT [PK_Modules] PRIMARY KEY CLUSTERED 
+(
+	[ModuleID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDMesureUnit](
+	[UnitID] [int] IDENTITY(1,1) NOT NULL,
+	[UnitName] [varchar](50) NULL,
+	[UnitType] [varchar](50) NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_DDMetricUnit] PRIMARY KEY CLUSTERED 
+(
+	[UnitID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDHouseInfo](
+	[HouseID] [int] IDENTITY(1,1) NOT NULL,
+	[Address] [varchar](50) NULL,
+	[CompactNumber] [varchar](50) NULL,
+	[Area] [varchar](50) NULL,
+	[RegisterDate] [varchar](50) NULL,
+	[InsuranceDate] [varchar](50) NULL,
+	[NotarizationDate] [varchar](50) NULL,
+	[PawnageID] [int] NULL,
+ CONSTRAINT [PK_DDHouseInfo] PRIMARY KEY CLUSTERED 
+(
+	[HouseID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDGeneralParemeters](
+	[ParamID] [int] IDENTITY(1,1) NOT NULL,
+	[ParamName] [varchar](50) NULL,
+	[ParamValue] [nchar](10) NULL,
+ CONSTRAINT [PK_DDGeneralParemeters] PRIMARY KEY CLUSTERED 
+(
+	[ParamID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDFeeRate](
+	[RateID] [int] IDENTITY(1,1) NOT NULL,
+	[Rate] [varchar](50) NULL,
+	[RateType] [int] NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_FeeRate] PRIMARY KEY CLUSTERED 
+(
+	[RateID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDCustomerInfo](
+	[CustomerID] [int] IDENTITY(1,1) NOT NULL,
+	[CustomerName] [varchar](50) NULL,
+	[PhoneNumber] [varchar](50) NULL,
+	[Address] [varchar](50) NULL,
+	[ContactPerson] [varchar](50) NULL,
+	[CertTypeID] [int] NULL,
+	[CertNumber] [varchar](50) NULL,
+ CONSTRAINT [PK_CustomerInfo] PRIMARY KEY CLUSTERED 
+(
+	[CustomerID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDCompanyInfo](
+	[CompanyID] [int] IDENTITY(1,1) NOT NULL,
+	[CompanyName] [varchar](50) NULL,
+	[PhoneNumber] [varchar](50) NULL,
+	[LicenseCode] [varchar](50) NULL,
+	[Address] [varchar](50) NULL,
+	[SubCompanyNumber] [varchar](50) NULL,
+	[SubCompanyName] [varchar](50) NULL,
+	[Postalcode] [varchar](50) NULL,
+	[ShopHours] [varchar](50) NULL,
+	[StartTicketNumber] [varchar](50) NULL,
+	[SetupDate] [varchar](50) NULL,
+ CONSTRAINT [PK_CompanyInfo] PRIMARY KEY CLUSTERED 
+(
+	[CompanyID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDCertTypes](
+	[TypeID] [int] IDENTITY(1,1) NOT NULL,
+	[TypeName] [varchar](50) NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_DDCertTypes] PRIMARY KEY CLUSTERED 
+(
+	[TypeID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [DDCarInfo](
+	[CarID] [int] IDENTITY(1,1) NOT NULL,
+	[LicenseNumber] [varchar](50) NULL,
+	[CarType] [varchar](50) NULL,
+	[EngineNumber] [varchar](50) NULL,
+	[CarcaseNumber] [varchar](50) NULL,
+	[InsuranceDate] [varchar](50) NULL,
+	[RoadtollDate] [varchar](50) NULL,
+	[CheckDate] [varchar](50) NULL,
+	[PawnageID] [int] NULL,
+ CONSTRAINT [PK_DDCarInfo] PRIMARY KEY CLUSTERED 
+(
+	[CarID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+ALTER TABLE [DDOperation] ADD  CONSTRAINT [DF_DDOperation_Deleted]  DEFAULT ((0)) FOR [Deleted]
+
+ALTER TABLE [DDPawnageClass] ADD  CONSTRAINT [DF_PawnageClass_ParentID]  DEFAULT ((0)) FOR [ParentID]
+

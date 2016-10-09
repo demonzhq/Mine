@@ -1,0 +1,269 @@
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.config
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang_Manage.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.application
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.pdb
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DotNetSkin.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\myMultiColHeaderDgv.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SkinH_CS.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SubSonic.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\UtilityLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.xml
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AboutusForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AddCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CapturePicForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClosePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ConnectForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CreatePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CustomerHistoryForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.DeletePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.EditPersonalAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.FreezePawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageAccountForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageNewsForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationSearchForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationsOfCurrentDayForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageRoleForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByFinanceForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageSubstoreForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByTakingForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ReceiptPrintViewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RegForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCarInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchGoldForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCustomerForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.LoginForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.MainForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPtForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchStockForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetCompanyInfoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetFeeForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPawnageClassForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPrintForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ToolBoxForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnOperationForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewOperations.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPawnTicketForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPhotoForm.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang_Manage.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe.manifest
+D:\Documents\Visual Studio 2008\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.application
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.config
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.manifest
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.application
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.pdb
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DotNetSkin.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\myMultiColHeaderDgv.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SkinH_CS.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SubSonic.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\UtilityLibrary.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.xml
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\de\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\es\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\fr\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\hu\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\it\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ja\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\pt\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ru\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sk\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sv\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\tr\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang_Manage.csproj.ResolveComReference.cache
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AboutusForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AddCustomerForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CapturePicForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearPawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClosePawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ConnectForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CreatePawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CustomerHistoryForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.DeletePawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.EditPersonalAccountForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.FreezePawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageAccountForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageNewsForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationSearchForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationsOfCurrentDayForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByClassForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageRoleForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByFinanceForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageSubstoreForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByTakingForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ReceiptPrintViewForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RegForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCarInfoForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchGoldForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseInfoForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnInfoForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCustomerForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.LoginForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.MainForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPtForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchStockForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetCompanyInfoForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetFeeForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPawnageClassForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPrintForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ToolBoxForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnOperationForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewOperations.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPawnTicketForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPhotoForm.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.Properties.Resources.resources
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe.manifest
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.application
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.pdb
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.config
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe.manifest
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.application
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.exe
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DianDang.pdb
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\DotNetSkin.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\myMultiColHeaderDgv.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SkinH_CS.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\SubSonic.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\UtilityLibrary.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ZedGraph.xml
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\de\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\es\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\fr\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\hu\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\it\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ja\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\pt\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\ru\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sk\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\sv\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\tr\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang_Manage.csproj.ResolveComReference.cache
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AboutusForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.AddCustomerForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CapturePicForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClearPawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ClosePawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ConnectForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CreatePawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.CustomerHistoryForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.DeletePawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.EditPersonalAccountForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.FreezePawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageAccountForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageNewsForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationSearchForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.OperationsOfCurrentDayForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PartRedeemPawnOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.PawnTicketPrintPreviewForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByClassForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageRoleForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByFinanceForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ManageSubstoreForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.QueryByTakingForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ReceiptPrintViewForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RegForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnPrintPreviewForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCarInfoForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchGoldForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchHouseInfoForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnInfoForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPawnTicketForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RedeemPawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.RenewPawnTicketForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchCustomerForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.LoginForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.MainForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchPtForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SearchStockForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetCompanyInfoForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetFeeForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPawnageClassForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.SetPrintForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ToolBoxForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.TransformPawnOperationForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewOperations.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPawnTicketForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.ViewPhotoForm.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.Properties.Resources.resources
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe.manifest
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.application
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.exe
+D:\Projects\Mine\DianDang\DianDang_通宝典当\DianDang_Manage\obj\Debug\DianDang.pdb

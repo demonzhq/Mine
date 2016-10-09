@@ -1,0 +1,2 @@
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData_DBF\FindData\obj\Debug\FindData.exe
+D:\张涵青\Documents\Visual Studio 2008\Projects\DianDang\FindData_DBF\FindData\obj\Debug\FindData.pdb
