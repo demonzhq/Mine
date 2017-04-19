@@ -1,0 +1,9 @@
+D:\Projects\Mine\In-Sight\TestForm\bin\Debug\TestForm.exe.config
+D:\Projects\Mine\In-Sight\TestForm\bin\Debug\TestForm.exe
+D:\Projects\Mine\In-Sight\TestForm\bin\Debug\TestForm.pdb
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.exe
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.pdb
+D:\Projects\Mine\In-Sight\TestForm\obj\Debug\TestForm.Form1.resources

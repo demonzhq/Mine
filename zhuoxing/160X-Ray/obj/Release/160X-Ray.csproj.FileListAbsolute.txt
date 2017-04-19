@@ -1,0 +1,11 @@
+D:\Projects\Mine\zhuoxing\160X-Ray\bin\Release\160X-Ray.exe.config
+D:\Projects\Mine\zhuoxing\160X-Ray\bin\Release\160X-Ray.exe
+D:\Projects\Mine\zhuoxing\160X-Ray\bin\Release\160X-Ray.pdb
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\160X-Ray.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\_160X_Ray.Form1.resources
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\_160X_Ray.Properties.Resources.resources
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\_160X_Ray.TimeSettingForm.resources
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\160X-Ray.csproj.GenerateResource.Cache
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\160X-Ray.exe
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\160X-Ray.pdb
+D:\Projects\Mine\zhuoxing\160X-Ray\obj\Release\_160X_Ray.TipForm.resources

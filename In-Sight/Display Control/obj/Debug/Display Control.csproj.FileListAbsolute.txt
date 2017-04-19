@@ -1,0 +1,12 @@
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\DisplayControl.exe.config
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\DisplayControl.exe
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\DisplayControl.pdb
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\Cognex.InSight.Controls.Display.dll
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\Cognex.InSight.dll
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\Cognex.InSight.xml
+D:\Projects\Mine\In-Sight\Display Control\bin\Debug\Cognex.InSight.Controls.Display.xml
+D:\Projects\Mine\In-Sight\Display Control\obj\Debug\Display Control.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\In-Sight\Display Control\obj\Debug\DisplayControl.frmMain.resources
+D:\Projects\Mine\In-Sight\Display Control\obj\Debug\Display Control.csproj.GenerateResource.Cache
+D:\Projects\Mine\In-Sight\Display Control\obj\Debug\DisplayControl.exe
+D:\Projects\Mine\In-Sight\Display Control\obj\Debug\DisplayControl.pdb

@@ -52,7 +52,7 @@
   </Component>
   <Component>
     <Name>tbx_File</Name>
-    <Value>D:\Projects\Work\JLR\SwoftwareTools\bin\Release\Autho.lic</Value>
+    <Value>C:\Users\ZHQ\Desktop\CCF Tools V2.8\Autho.lic</Value>
     <Type>TextBox</Type>
   </Component>
 </Components>

@@ -12,6 +12,8 @@ namespace Test
 {
     public partial class Form1 : Form
     {
+
+        Authorization.Autho mAutho = new Authorization.Autho("CJLRCCFToolsTest1.0", "Autho.lic", "TestTest");
         public Form1()
         {
             InitializeComponent();
@@ -21,17 +23,36 @@ namespace Test
 
         void Form1_Shown(object sender, EventArgs e)
         {
-            Authorization.Autho mAutho = new Authorization.Autho("Test","Autho.lic","TestTest");
+            System.Threading.Thread AuthoThread = new System.Threading.Thread(AuthoProcess);
+            AuthoThread.Start();
+
+        }
+
+        private void AuthoProcess()
+        {
             bool Result = mAutho.AuthoProcess();
-            
-            if (Result)
+            string Message = mAutho.GetMessage();
+            if (Message == "void")
             {
-                MessageBox.Show("License Good");
+                Message = "";
             }
             else
             {
-                MessageBox.Show("License Error");
+                Message = Message + "\r\n";
+            }
+            if (Result)
+            {
+                if (Message != "")
+                {
+                    MessageBox.Show(Message, "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            else
+            {
+                Message = Message + "License Error";
                 Application.Exit();
+                MessageBox.Show(Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             }
         }
     }

@@ -1,0 +1,9 @@
+D:\Projects\Mine\In-Sight\ThreadsComm\bin\Debug\ThreadsComm.exe.config
+D:\Projects\Mine\In-Sight\ThreadsComm\bin\Debug\ThreadsComm.exe
+D:\Projects\Mine\In-Sight\ThreadsComm\bin\Debug\ThreadsComm.pdb
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.csprojResolveAssemblyReference.cache
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.Form1.resources
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.Properties.Resources.resources
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.csproj.GenerateResource.Cache
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.exe
+D:\Projects\Mine\In-Sight\ThreadsComm\obj\Debug\ThreadsComm.pdb

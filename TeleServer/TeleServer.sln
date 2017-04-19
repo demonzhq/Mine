@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EchoServer", "EchoServer\EchoServer.pyproj", "{E5FD76F2-A771-44FD-B884-3959EABDC0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Release|x64.ActiveCfg = Release|Any CPU
+		{E5FD76F2-A771-44FD-B884-3959EABDC0DC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
