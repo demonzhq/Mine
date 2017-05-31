@@ -56,6 +56,8 @@ namespace TestForm
         private string ServerAddress = "";
         private int ServerPort = 0;
         private TcpClient Client = new TcpClient();
+        NetworkStream mStream;
+        
         int BUFFER_SIZE = 65535;
         int RECONNECT_COUNT = 5;
         #endregion
@@ -87,6 +89,8 @@ namespace TestForm
             try
             {
                 this.Client = new TcpClient(ServerAddress, ServerPort);
+                mStream = Client.GetStream();
+                
                 ClientConnectedEvent();
                 return true;
 
@@ -139,7 +143,7 @@ namespace TestForm
                 else
                 {
 
-                    NetworkStream mStream = Client.GetStream();
+                    mStream = Client.GetStream();
                     byte[] buffer = new byte[BUFFER_SIZE];
                     try
                     {
@@ -198,6 +202,28 @@ namespace TestForm
             
         }
 
+        public void SendByte(byte[] Msg)
+        {
+            if (isRunning)
+            {
+                try
+                {
+                    mStream.Write(Msg, 0, Msg.Length);
+                }
+                catch (Exception Error)
+                {
+                    
+                }
+               
+            }
+        }
+
+
+    }
+
+
+    public enum MessageEvent
+    {
 
     }
 }

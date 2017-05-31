@@ -22,9 +22,7 @@ namespace TestForm
             dr.ClientConnected += this.ClientConnected;
             dr.ClientDisconnected += this.ClientDisconnected;
             dr.DataReceived += this.DataReceived;
-            dr.MessageReceived += this.TCPMessageReceived;
-            
-           
+            dr.MessageReceived += this.TCPMessageReceived;        
 
         }
 
@@ -79,6 +77,13 @@ namespace TestForm
         private void button2_Click(object sender, EventArgs e)
         {
             dr.Stop();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+                dr.SendByte(new byte[] { 0x31, 0x32, 0x33, 0x34, 0x35 });
+
         }
     }
 }

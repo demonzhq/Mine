@@ -10,7 +10,6 @@ using System.Windows.Forms;
 using WIN32API;
 using System.IO;
 using System.Diagnostics;
-using Authorization;
 using System.Xml;
 
 namespace _160X_Ray
@@ -18,7 +17,6 @@ namespace _160X_Ray
     public partial class Form1 : Form
     {
 
-        Autho mAutho = new Autho("ZhuoXing160X-Ray", "Autho.lic", "ZhuoXing");
         bool isAutho = false;
         string ApplicationPath;
         private Process App;
@@ -42,8 +40,8 @@ namespace _160X_Ray
             this.MainMinute.Value = LastTime / 60;
             this.MainSecond.Value = LastTime % 60;
 
-            AuthoProcess();
-            //isAutho = true;
+            
+            isAutho = true;
 
             if (isAutho)
             {
@@ -320,45 +318,6 @@ namespace _160X_Ray
                 CreateSave();
             }
         }
-
-        private void AuthoProcess()
-        {
-            string strResult = mAutho.isNetworkAuthorized();
-            bool Result = false;
-            if (strResult.Split('|')[0] == "1")
-            {
-                Result = true;
-            }
-            else Result = false;
-            string Message = mAutho.GetMessage();
-            if (Message == "void")
-            {
-                Message = "";
-            }
-            else
-            {
-                Message = Message + "\r\n";
-            }
-            if (Result)
-            {
-                isAutho = true;
-                if (Message != "")
-                {
-                    MessageBox.Show(Message, "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                }
-            }
-            else
-            {
-                isAutho = false;
-                Message = Message + "License Error";
-                //this.Dispose();
-
-                //Application.Exit();
-                MessageBox.Show(Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-            }
-        }
-
 
         private void CreateSave()
         {

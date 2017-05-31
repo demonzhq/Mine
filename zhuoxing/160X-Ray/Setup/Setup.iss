@@ -27,24 +27,6 @@ SetupIconFile=D:\Projects\Mine\zhuoxing\Icon.ico
 Compression=lzma
 SolidCompression=yes
 
-[code]
-function InitializeSetup():boolean;
-var
-  MykeynotExist:boolean;
-  ResultCode: Integer;
-  uicmd: String;
-begin
-  MykeynotExist:= true;
-  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{C89FDBC0-C7F1-43C0-B113-5363AC486906}', 'UninstallString', uicmd) then
-  begin
-    Result:= true;
-  end  else
-  begin 
-    Result:= false;
-  end;
-end;
-
-
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
@@ -53,8 +35,8 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked; OnlyBelowVersion: 0,6.1
 
 [Files]
-Source: "C:\Users\ZHQ\Desktop\Setup\160X-Ray.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\ZHQ\Desktop\Setup\P097IXS160BP480P097\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\Projects\Mine\zhuoxing\160X-Ray\Setup\160X-Ray.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "D:\Projects\Mine\zhuoxing\160X-Ray\Setup\P097IXS160BP480P097\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

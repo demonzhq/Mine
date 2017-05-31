@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XForm", "XForm\XForm.csproj", "{0B759E9D-F541-4F1B-8228-96EA7309FA9F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFormTest", "XFormTest\XFormTest.csproj", "{46808083-3690-4D52-9D1D-B36AAE8D7F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XWindow", "XWindow\XWindow.csproj", "{3EEA85FC-ED95-4A64-BCD0-82EBD45820E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{46808083-3690-4D52-9D1D-B36AAE8D7F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46808083-3690-4D52-9D1D-B36AAE8D7F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46808083-3690-4D52-9D1D-B36AAE8D7F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEA85FC-ED95-4A64-BCD0-82EBD45820E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEA85FC-ED95-4A64-BCD0-82EBD45820E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEA85FC-ED95-4A64-BCD0-82EBD45820E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEA85FC-ED95-4A64-BCD0-82EBD45820E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
